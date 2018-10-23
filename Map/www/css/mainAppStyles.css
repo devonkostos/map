@@ -1,0 +1,14 @@
+#container{
+    margin: 3px;
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+#btnLocation{
+    display: none;
+}
+#map-canvas{
+    height: 600px;
+    width: 100%;
+}
